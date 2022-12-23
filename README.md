@@ -1,11 +1,12 @@
-### Hello 👋 I am Durvesh Mangesh More
+#### Hello 👋 I am Durvesh Mangesh More
 ## Fresher Student
 
-- 🌎 I'm located at Thane, Maharashtra
+- 📍 I'm located at Thane, Maharashtra
 - 🔭 I'm currently working on [Sales-Distribution-System](https://github.com/DurveshMore8/Sales-Management-System)
+- 👯 I’m looking to collaborate on Open-Sourced Projects
 - 🌱 I’m currently learning Flutter
 - 📫 Mail me at [durveshmore2003@gmail.com](mailto:durveshmore2003@gmail.com) 
-- 📫 Reach me at [Durvesh87554553](https://twitter.com/Durvesh87554553)
+- 📫 Reach me at [Durvesh87554553](https://twitter.com/Durvesh87554553) (Twitter)
 
 <!--
 **DurveshMore8/DurveshMore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
