@@ -3,6 +3,8 @@
 
 - 🌎 I'm located at Thane, Maharashtra
 - 🔭 I'm currently working on [Sales-Distribution-System](https://github.com/DurveshMore8/Sales-Management-System 'Google Search')
+- 🌱 I’m currently learning Flutter
+- 📫 Reach me at [durveshmore2003@gmail.com](mailto:durveshmore2003@gmail.com)
 
 <!--
 **DurveshMore8/DurveshMore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
