@@ -2,9 +2,9 @@
 ## Fresher Student
 
 - 🌎 I'm located at Thane, Maharashtra
-- 🔭 I'm currently working on [Sales-Distribution-System](https://github.com/DurveshMore8/Sales-Management-System 'Google Search')
+- 🔭 I'm currently working on [Sales-Distribution-System](https://github.com/DurveshMore8/Sales-Management-System)
 - 🌱 I’m currently learning Flutter
-- 📫 Reach me at [durveshmore2003@gmail.com](mailto:durveshmore2003@gmail.com)
+- 📫 Reach me at [Gmail](mailto:durveshmore2003@gmail.com) or [Twitter](https://twitter.com/Durvesh87554553)
 
 <!--
 **DurveshMore8/DurveshMore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
