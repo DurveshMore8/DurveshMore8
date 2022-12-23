@@ -1,5 +1,5 @@
-#### Hello 👋 I am Durvesh Mangesh More
-## Fresher Student
+# Hello 👋 I am Durvesh Mangesh More
+### Fresher Student
 
 - 📍 I'm located at Thane, Maharashtra
 - 🔭 I'm currently working on [Sales-Distribution-System](https://github.com/DurveshMore8/Sales-Management-System)
