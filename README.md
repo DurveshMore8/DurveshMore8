@@ -8,6 +8,8 @@
 - 📫 Mail me at [durveshmore2003@gmail.com](mailto:durveshmore2003@gmail.com) 
 - 📫 Reach me at [Durvesh87554553](https://twitter.com/Durvesh87554553) (Twitter)
 
+### Skills
+![s](https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg)
 <!--
 **DurveshMore8/DurveshMore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
