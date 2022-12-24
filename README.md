@@ -9,7 +9,7 @@
 - 📫 Reach me at [Durvesh87554553](https://twitter.com/Durvesh87554553) (Twitter)
 
 ### Skills
-![s](https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg)
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,java,mongo,c,cpp&theme=light)](https://skills.thijs.gg)
 <!--
 **DurveshMore8/DurveshMore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
