@@ -1,7 +1,8 @@
 <h1 align="center">Hey There 👋, I'm Durvesh Mangesh More</h1>
-<h2 align="center">A Front-End Developer</h3>
+<h3 align="center">A Front-End Developer</h3>
 
-<h3 align="left">About Me</h3>
+- 📍 I’m located at **Thane, Maharashtra**
+
 - 🔭 I’m currently working on [Sales Management System](https://github.com/DurveshMore8/Sales-Management-System)
 
 - 🌱 I’m currently learning **Flutter and Dart**
