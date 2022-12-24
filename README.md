@@ -9,7 +9,15 @@
 - 📫 Reach me at [Durvesh87554553](https://twitter.com/Durvesh87554553) (Twitter)
 
 ### Skills
-[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,java,mongo,c,cpp&theme=light)](https://skills.thijs.gg)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40" />](https://flutter.dev 'Flutter')
+[<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40" />](https://dart.dev 'Dart')
+[<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />](https://www.mongodb.com/home 'MongoDB')
+[<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />](https://www.java.com/en/ 'Java')
+[<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" />](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170 'C')
+[<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170 'C++')
+[<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" />](https://learn.microsoft.com/en-us/dotnet/csharp 'C#')
+[<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />](https://www.python.org 'Python')
+
 <!--
 **DurveshMore8/DurveshMore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
