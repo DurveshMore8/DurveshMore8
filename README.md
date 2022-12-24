@@ -1,6 +1,7 @@
 # Hello 👋 I am Durvesh Mangesh More
-### Fresher Student
+## Fresher Student
 
+### About Me
 - 📍 I'm located at Thane, Maharashtra
 - 🔭 I'm currently working on [Sales-Distribution-System](https://github.com/DurveshMore8/Sales-Management-System)
 - 👯 I’m looking to collaborate on Open-Sourced Projects
@@ -8,7 +9,7 @@
 - 📫 Mail me at [durveshmore2003@gmail.com](mailto:durveshmore2003@gmail.com) 
 - 📫 Reach me at [Durvesh87554553](https://twitter.com/Durvesh87554553) (Twitter)
 
-### Skills
+### Technical Skills
 [<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40" />](https://flutter.dev 'Flutter')
 [<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40" />](https://dart.dev 'Dart')
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />](https://www.mongodb.com/home 'MongoDB')
