@@ -41,3 +41,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=durveshmore8&show_icons=true&locale=en&theme=dark" alt="durveshmore8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durveshmore8&theme=dark" alt="durveshmore8" /></p>
+
+<h3 align="left">GitHub Trophies:</h3>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=durveshmore8&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="durveshmore8" /></p>
