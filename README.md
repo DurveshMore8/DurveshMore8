@@ -17,6 +17,7 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/20864932/durvesh-more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="durvesh-more" height="30" width="40" /></a>
 <a href="https://github.com/DurveshMore8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DurveshMore8" height="30" width="40" /></a>
 <a href="https://twitter.com/durvesh87554553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durvesh87554553" height="30" width="40" /></a>
 <a href="https://instagram.com/durvesh_8403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durvesh_8403" height="30" width="40" /></a>
