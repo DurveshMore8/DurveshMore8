@@ -21,7 +21,8 @@
 <a href="https://github.com/DurveshMore8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DurveshMore8" height="30" width="40" /></a>
 <a href="https://twitter.com/durvesh87554553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durvesh87554553" height="30" width="40" /></a>
 <a href="https://instagram.com/durvesh_8403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durvesh_8403" height="30" width="40" /></a>
-</p>
+</p><br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=durveshmore8&label=Profile%20views&color=0e75b6&style=flat" alt="durveshmore8" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
