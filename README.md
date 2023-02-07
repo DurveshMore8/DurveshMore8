@@ -1,5 +1,5 @@
 <h1 align="left">Hey There 👋, I'm Durvesh Mangesh More</h1>
-<h2 align="left">A Front-End Developer</h2>
+<h2 align="left">A Coder and Developer</h2>
 
 <h3 align="left">About Me:</h3>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 👯 I’m looking to collaborate on **Front-End Projects**
+- 👯 I’m looking to collaborate on **Development Projects**
 
 - 📫 Reach me at **durveshmore2003@gmail.com**
 
