@@ -5,8 +5,6 @@
 
 - 📍 I’m located at **Thane, Maharashtra**
 
-- 🔭 I’m currently working on [Sales Management System](https://github.com/DurveshMore8/Sales-Management-System)
-
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 👯 I’m looking to collaborate on **Development Projects**
